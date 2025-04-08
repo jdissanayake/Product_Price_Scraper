@@ -1,7 +1,9 @@
 Plant Price Scraper
 
 Version: 1.2
+
 Author: Jayasanka Dissanayake
+
 Last Updated: April 08, 2025
 
 Overview
