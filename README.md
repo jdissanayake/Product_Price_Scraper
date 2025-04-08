@@ -125,4 +125,4 @@ This project is open-source and available under the MIT License. Use it freely, 
 
 Contact
 -------
-For support or inquiries, reach out to Jayasanka Dissanayake via [email@example.com] (replace with your contact if desired).
+For support or inquiries, reach out to Jayasanka Dissanayake via [jayasanka9810@gmail.com (replace with your contact if desired).
